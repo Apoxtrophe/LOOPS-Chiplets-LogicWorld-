@@ -14,3 +14,7 @@ Also includes a redesign of the vanilla ThroughPeg and the MiniSocket to be more
 Full adder using some of the new components.
 
 ![FullAdder](20221116161147_1.jpg)
+
+# Install
+
+Place the LC folder directly into LogicWorld/GameData, it should be directly beside the MHG folder and any other mods you have installed. 
