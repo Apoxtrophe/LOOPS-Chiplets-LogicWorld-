@@ -1,5 +1,5 @@
 # LOOPS' Chiplets
-!Mod made for public preview version 0.91, 510! 
+!Mod made for public preview versions of 0.91.
 
 Put simply this mod reshapes nearly every logic component in Logic World to fit within a 1 width cube, this means smaller components that can all tile together perfectly in a grid!
 
