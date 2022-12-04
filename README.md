@@ -14,6 +14,16 @@ Also includes a redesign of the vanilla ThroughPeg and the MiniSocket to be more
 Full adder using some of the new components.
 
 ![FullAdder](20221116161147_1.jpg)
+ 
+ 1-tile wide instant-carry adder / subtractor.
+ 
+![ICA](ICA.jpg)
+
+16 bit multiplier.
+
+![Multiplier](Multiplier.jpg)
+ 
+ 
 
 # Install
 
