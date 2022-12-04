@@ -163,7 +163,7 @@ FastBuffer:
             -
                 scale: (1, 0.5, 1)
                 position: (0.0, 0, 0)
-                color: FB8500
+                color: FF6600
         inputs:
             -
                 position: (0, 0.1, -1/4)
