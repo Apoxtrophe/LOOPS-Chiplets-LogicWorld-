@@ -11,7 +11,7 @@ NOT:
             -
                 position: (0, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
         outputs:
             -
                 position: (0, 0, 1/5)
@@ -34,11 +34,11 @@ XOR:
             -
                 position: (1/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
             -
                 position: (-1/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
         outputs:
             -
                 position: (0, 0, 1/5)
@@ -60,11 +60,11 @@ AND:
             -
                 position: (1/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
             -
                 position: (-1/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
         outputs:
             -
                 position: (0, 0, 1/5)
@@ -86,19 +86,19 @@ AND4x:
             -
                 position: (-1/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
             -
                 position: (1/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
             -
                 position: (3/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
             -
                 position: (5/4, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
         outputs:
             -
                 position: (0.5, 0, 1/5)
@@ -144,10 +144,10 @@ DLatch:
             -
                 position: (0, 0, -1/3)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
             -
                 position: (0, 0, 0)
-                length: 0.5
+                length: 0.75
         outputs:
             -
                 position: (0, 0, 1/5)
@@ -169,7 +169,7 @@ Random:
             -
                 position: (0, 0, -1/3)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
         outputs:
             -
                 position: (0, 0, 1/5)
@@ -191,14 +191,14 @@ Relay:
         inputs:
             -
                 position: (0, 0, 0)
-                length: 0.5
+                length: 0.75
 
             -
                 position: (0, 0, -1/3)
-                length: 0.4
+                length: 0.65
             -
                 position: (0, 0, 1/3)
-                length: 0.4
+                length: 0.65
 
     logicCode: LogicWorld.LogicCode.Relay
     placingRules:
@@ -217,7 +217,7 @@ Buffer:
             -
                 position: (0, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
         outputs:
             -
                 position: (0, 0, 1/5)
@@ -239,11 +239,11 @@ FastBuffer:
             -
                 position: (0, 0, -1/4)
                 rotation: (0, 0, 0)
-                length: 0.4
+                length: 0.65
             -
                 position: (0, 0, 1/4)
                 rotation: (0, 0, 0)
-                length: 0.5
+                length: 0.75
 
     logicCode: LogicWorld.LogicCode.FastBuffer
     placingRules:
