@@ -4,5 +4,5 @@ This mod reshapes all of the logic and connection components of Logic World into
 
 # Install
 
-Place the LC folder directly into LogicWorld/GameData, it should be directly beside the MHG folder and any other mods you have installed. 
+Place the CHIPLETS folder directly into /Logic World/GameData folder alongside the MHG folder and any other mods you have installed. 
 ![20231011002826_1](https://github.com/Apoxtrophe/LOOPS-Chiplets-LogicWorld-/assets/23144326/c72228ad-96e1-4d1a-9c99-e135419bbefb)
